@@ -31,7 +31,7 @@ http://closure-compiler.appspot.com/home
 
 按下剛新增的書籤
 
-這時候測試網頁裡的textField應該充滿有趣的文字:)
+測試網頁中的textField應該填滿著有趣的文字:)
 
 
 
